@@ -9,8 +9,8 @@ theme = "nightfall"
     url = "posts"
 
 [params]
-author = "Enes HAZIR"
-user = "ehazir"
+author = "Muharrem Özer"
+user = "mozer"
 #hostname = "42.fr"
 
 readingTime = true  # Show reading time on post page
@@ -19,19 +19,19 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "Github"
-url = "https://github.com/yazilimfuryasi"
+url = "https://github.com/ozermuharrem"
 
 [[params.social]]
 key = 1
 name = "Instagram"
-url = "https://www.instagram.com/eneshazr"
+url = "https://www.instagram.com/muharrem.ozr"
 
 [[params.social]]
 key = 2
 name = "Linkedin"
-url = "https://www.linkedin.com/in/eneshazr"
+url = "https://www.linkedin.com/in/ozermuharrem"
 
 [[params.social]]
 key = 3
 name = "Email"
-url = "mailto:eneshazrr@gmail.com"
+url = "mailto:muharrem.o@outlook.com"

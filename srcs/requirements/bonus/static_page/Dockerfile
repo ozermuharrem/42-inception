@@ -25,7 +25,7 @@ EXPOSE 1313
 
 CMD     ["hugo", "server", \
          "--bind=0.0.0.0", \
-         "--baseURL=https://ehazir.42.fr/static", \
+         "--baseURL=https://mozer.42.fr/static", \
          "-p", "1313", \
          "--logFile=/dev/stdout", \
         "--appendPort=false"]
